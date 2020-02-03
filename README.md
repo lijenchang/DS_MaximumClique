@@ -38,8 +38,10 @@ The output file is named "clique.txt". In this file, each line consists of a ver
 4
 ```
 ## Testcase Information
-An undirected unweighted graph with 82168 vertices and 2072442 edges
+An undirected unweighted graph with 82168 vertices and 2072442 edges (maximum clique size = 1500)
 ## References
 E. Tomita and T. Kameda. An Efficient Branch-and-Bound Algorithm for Finding a Maximum Clique with Computational Experiments. Journal of Global Optimization, 37: 95-111, 2007.
 
 E. Tomita, Y. Sutani, T. Higashi, S. Takahashi, and M. Wakatsuki. A Simple and Faster Branch-and-Bound Algorithm for Finding a Maximum Clique. Proceedings of WALCOM 2010, LNCS 5942, pp. 191-203, 2010. 
+
+P. Prosser. Exact Algorithms for Maximum Clique: A Computational Study. Algorithms 2012, 5, 545-587.
