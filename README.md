@@ -6,7 +6,7 @@ $ make
 ```
 ## Running
 ```
-$ timeout -s SIGINT [time_limit(secs)] ./clique_find [input_file_name] [number_of_vertices]
+$ timeout -s SIGINT <time_limit(secs)> ./clique_find <input_file_name> <number_of_vertices>
 ```
 Example:
 ```
